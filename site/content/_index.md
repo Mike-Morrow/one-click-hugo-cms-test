@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Better Gut Digest"
+subtitle: Helping people with gut problems improve their situation
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
